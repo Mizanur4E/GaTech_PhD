@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 
 ''' This code simply test max functions time complexity with problem size,  N  which is O(N) '''
 
+
 def find_max(arr):
     return max(arr)
 
